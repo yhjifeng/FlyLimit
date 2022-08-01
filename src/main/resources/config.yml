@@ -1,0 +1,9 @@
+#插件版本
+version: 1.0.0
+#限制飞行的世界
+worlds:
+  - world
+  - world_the_end
+#语言提示
+title: "§c飞行管控"
+sub_title: "§a该世界不能飞行！"
